@@ -86,3 +86,5 @@ else
 
 	Printer()
 end
+
+print("\27[0;0m")
